@@ -39,7 +39,7 @@ a {
 }
 
 a:hover {
-  color: #EC4899;
+  color: #EF7D29;
   text-decoration: none;
 }
 
@@ -117,7 +117,7 @@ header {
 }
 
 .scroll-top:hover {
-  background: #EC4899;
+  background: #EF7D29;
   color: #fff;
 }
 
@@ -281,7 +281,7 @@ header {
   width: 94px;
   height: 94px;
   margin-bottom: 20px;
-  background: radial-gradient(var(--color-primary) 50%, #EC4899 52%);
+  background: radial-gradient(var(--color-primary) 50%, #EF7D29 52%);
   border-radius: 50%;
   display: inline-block;
   position: relative;
